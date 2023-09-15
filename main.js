@@ -1,5 +1,5 @@
 /*
-*Words
+*Wordspad
 *from
 *Dannysnotepad
 */
